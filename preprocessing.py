@@ -2,4 +2,4 @@ import pandas as pd
 
 
 def load_data():
-    pass
+    print("Loaded the data")
